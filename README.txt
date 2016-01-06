@@ -140,3 +140,5 @@ posExtraString:
 When using regular expressions to match POS, you often need to add unrelated strings in order to capture the correct entry (e.g. in German, POS is preceded by {{Wortart|). Add this string here to have the parser strip at output.
 
 Once these parameters are set, you should be able to call the script with the new language code set to the lang parameter.
+
+Join the chat at https://gitter.im/samwilson/Wikparser
